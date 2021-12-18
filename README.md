@@ -29,7 +29,7 @@ In this project, I will use the Apartment rental offers in Germany data availabl
 
 ## Results<a name="results"></a>
 - The prediction and clustering, can be found on the `Scripts`files.
-- The dashbord presentation can be found on [Tableau](https://fbhugaloo.medium.com/customer-segmentation-and-acquisition-a-machine-learning-approach-8827b0e580b7)
+- The dashbord presentation can be found on [Tableau](https://public.tableau.com/app/profile/fardil/viz/RENTALAPARTMENTINGERMANYPRICESANALYSIS/RENTALAPARTMENTINGERMANYPRICESANALYSIS_1#1)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The data belongs to www.immobilienscount24.de and is for research purposes only. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/corrieaar/apartment-rental-offers-in-germany). The time series data are obtained from [Quandle](https://data.nasdaq.com/) and the GeoJSON file containing geo-coordinates of Germany for geospatial visualization are obtained from [here](https://github.com/isellsoap/deutschlandGeoJSON). Otherwise, feel free to use the code here as you would like! 
