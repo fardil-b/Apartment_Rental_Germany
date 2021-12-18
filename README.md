@@ -10,7 +10,7 @@ Personal Project about Rental Apartment in Germany from a dataset scraped from I
 
 ## Project Motivation<a name="motivation"></a>
 
-In this project, I will use the Apartment rental offers in Germany data available on Kaggle, scraped from www.immobilienscount24.de to analyse the real estate market in Germany. I will conduct EDA to understand the dataset and I will be using regression ML technique to see if we can predict total rent amount. Then, Kmeans unsupervised ML techniques will be applied to identify clusters within the dataset. Furthermore, a geospatial analysis for the german rental market will be conducted by creating a choropleth map.  Lasting, I will be sourcing Consumer Price Index data for Germany from Quandl API and conduct time series analysi and forecasting.
+In this project, I will use the Apartment rental offers in Germany data available on Kaggle, scraped from www.immobilienscount24.de to analyse the real estate market in Germany. I will conduct EDA to understand the dataset and I will be using regression ML technique to see if we can predict total rent amount. Then, Kmeans unsupervised ML techniques will be applied to identify clusters within the dataset. Furthermore, a geospatial analysis for the german rental market will be conducted by creating a choropleth map.  Lastly, I will be sourcing Consumer Price Index data for Germany from Quandl API and conduct time series analysi and forecasting.
 
 ## Methods Used <a name="method"></a>
 - Exploratory data analysis to understand the dataset
