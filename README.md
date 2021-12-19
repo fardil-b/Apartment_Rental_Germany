@@ -16,12 +16,12 @@ In this project, I will use the Apartment rental offers in Germany data availabl
 - Exploratory data analysis to understand the dataset
 - Feature selection and elimination using Correlation 
 - Using Machine Learning model for prediction
-- Use Kmeans Unsuperised ML Technique for Clustering
+- Use Kmeans Unsupervised ML Technique for Clustering
 - Conducting a geospatial analysis for the German rental market by creating a choropleth map
-- Time series analysis and explore forecasting process, additionally explore the forecasting process
+- Time series analysis and explore forecasting process
 
 ## File Descriptions <a name="files"></a>
-1. `Project Managemnt` : Notebook containing the Project Brief
+1. `Project Management` : Notebook containing the Project Brief
 2. `Data` : contains the data sets, `Original` and `Prepared`
 3. `Scripts` : jupyter notebook files containing all the codes for the whole project combined including EDA & Machine learning model
 4. `Analysis` : `Reports` and ``Visualization`
